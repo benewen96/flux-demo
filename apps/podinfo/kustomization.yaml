@@ -4,4 +4,4 @@ namespace: podinfo
 resources:
 - namespace.yaml
 - deployment.yaml
-# - image-update.yaml
+- image-update.yaml
